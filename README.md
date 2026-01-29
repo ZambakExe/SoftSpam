@@ -60,7 +60,7 @@ Bu bot, Discord'un **Uygulama Dizini**'nde görünür ve kullanıcılar **sunucu
 
 2. Proje klasörüne gidin:
 ```bash
-cd discord-bot-v2
+cd SoftSpam
 ```
 
 3. Bağımlılıkları yükleyin:
