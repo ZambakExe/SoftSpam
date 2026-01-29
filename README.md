@@ -1,0 +1,2 @@
+# SoftSpam
+Discord spam app
